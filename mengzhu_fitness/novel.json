@@ -1,0 +1,3292 @@
+{
+  "novel_id": "mengzhu-fitness-001",
+  "title": "盟主穿越当健身教练",
+  "genre": "都市",
+  "theme": "穿越者如何在不需要自己的世界找到位置",
+  "target_words": 500000,
+  "style_name": "webnovel.shuangwen",
+  "custom_style_reference": "第一人称、短句直给、不解释不煽情、极简对话、情绪靠身体反应不靠心理描写、冷幽默式荒诞",
+  "outline": {
+    "template": "custom",
+    "main_storyline": {
+      "protagonist_goal": "被需要——想用自己的能力证明价值",
+      "core_conflict": "现代社会不需要功夫。衡量人的标准是钱、学历、社交——他全没有",
+      "character_arc": "从天牢死囚到工地水泥工到健身教练到气脉健身创始人——重建尊严的过程",
+      "stakes": "失败不会死——变成'没用的人'，比死更难受"
+    },
+    "acts": [
+      {
+        "act_number": 0,
+        "title": "序章",
+        "chapter_range": [
+          1,
+          2
+        ],
+        "summary": "盟主巅峰+背叛入狱+天牢穿越",
+        "purpose": "建立'有'和'失'——让读者理解失去一切是什么感觉"
+      },
+      {
+        "act_number": 1,
+        "title": "坠落",
+        "chapter_range": [
+          3,
+          12
+        ],
+        "summary": "穿越+扛水泥/送快递+短视频走红+进健身房",
+        "purpose": "从最底层开始——被时代抛弃的感觉"
+      },
+      {
+        "act_number": 2,
+        "title": "求存",
+        "chapter_range": [
+          13,
+          32
+        ],
+        "summary": "当教练+考证+第一个学员蜕变+被叫'师父'",
+        "purpose": "在规则内找到位置——'被需要'的第一次实现"
+      },
+      {
+        "act_number": 3,
+        "title": "破土",
+        "chapter_range": [
+          33,
+          52
+        ],
+        "summary": "气脉健身法+收三徒+行业认可+不打而胜",
+        "purpose": "从一个人到一个体系——'不必处处在场'"
+      },
+      {
+        "act_number": 4,
+        "title": "对决",
+        "chapter_range": [
+          53,
+          82
+        ],
+        "summary": "旧敌出现+商业打压+擂台对决+身份暴露+陆沉真相",
+        "purpose": "过去的真相追上来——能不能不靠拳头面对"
+      },
+      {
+        "act_number": 5,
+        "title": "立派",
+        "chapter_range": [
+          83,
+          102
+        ],
+        "summary": "风暴+直播承认+传承+新'门派'落定",
+        "purpose": "传承不靠一个人——门派自己会运转"
+      }
+    ],
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "title": "序章·上：盟主",
+        "goal": "江临渊的'不转弯'——拒绝朝廷招揽",
+        "key_events": [
+          "评剑/师弟缝鞋/陆沉'有约'伏笔/拒绝朝廷/女人鞋印"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "a-qi",
+          "lu-chen"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "盟主巅峰——评剑、师弟缝鞋、陆沉'有约'伏笔、拒绝朝廷。全章靠'这是一个有原则的人'建立读者认同。",
+        "storyline_progress": "序章：建立'有'——武林盟主万人跪伏的巅峰"
+      },
+      {
+        "chapter_number": 2,
+        "title": "序章·下：天牢",
+        "goal": "在天牢中守住最后一点尊严",
+        "key_events": [
+          "铁钉穿骨",
+          "师弟递馒头",
+          "陆沉来访(脸被抹除)",
+          "第二根铁钉/穿越"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "a-qi",
+          "lu-chen"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "天牢坠落——铁钉穿骨、师弟递馒头、陆沉来访（脸被记忆抹除）、第二根铁钉、穿越。",
+        "storyline_progress": "序章：建立'失'——天牢受死穿越到2026年"
+      },
+      {
+        "chapter_number": 3,
+        "title": "醒来",
+        "goal": "搞清楚这是哪里——一切都不对",
+        "key_events": [
+          "穿越到2026年成都",
+          "降龙掌无人知",
+          "玉佩换不来包子"
+        ],
+        "involved_characters": [
+          "jiang-linyuan"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "穿越后第一天——降龙掌无人知，玉佩换不来包子，被时代抛弃的刺痛。",
+        "storyline_progress": "信息之钩——降龙掌没有人看"
+      },
+      {
+        "chapter_number": 4,
+        "title": "空腹",
+        "goal": "填饱肚子但没有一个铜板",
+        "key_events": [
+          "生存危机",
+          "流浪汉给半个馒头",
+          "工地招工"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liulanghan"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "生存挣扎——流浪汉的半个馒头给了温暖，工地招工有了第一份工作。",
+        "storyline_progress": "危险之钩——生存危机，钩子驱动"
+      },
+      {
+        "chapter_number": 5,
+        "title": "扛楼",
+        "goal": "用体力证明自己",
+        "key_events": [
+          "工头多给二十块",
+          "黄毛开始拍视频"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "li-shifu",
+          "huang-mao"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "扛水泥体力证明——C级爽点，工头多给二十块，黄毛开始拍视频。",
+        "storyline_progress": "不公之钩——被低估，体力证明"
+      },
+      {
+        "chapter_number": 6,
+        "title": "水泥哥",
+        "goal": "不理解'走红'",
+        "key_events": [
+          "'一千个人在看我扛水泥'",
+          "老周在工地门口等他"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "huang-mao",
+          "lao-zhou"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "水泥哥走红——短视频扩散，老周在工地门口等他。",
+        "storyline_progress": "信息之钩——一千个人在看他扛水泥"
+      },
+      {
+        "chapter_number": 7,
+        "title": "新入",
+        "goal": "从水泥哥到健身房前台",
+        "key_events": [
+          "老周给他钥匙",
+          "张扬出场质疑"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "zhang-yang"
+        ],
+        "chapter_type": "interlude",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "健身房第一天——老周给钥匙，张扬出场质疑没证不能教学。",
+        "storyline_progress": "反转式——张扬出场质疑"
+      },
+      {
+        "chapter_number": 8,
+        "title": "无证",
+        "goal": "能力无法通过任何渠道证明",
+        "key_events": [
+          "三百年修为顶不过一章纸",
+          "忍不住指导陈胖"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "zhang-yang",
+          "chen-pang"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "无证困境——三百年修为顶不过一章纸，看到学员动作错误忍不住指导陈胖。",
+        "storyline_progress": "不公之钩——能力无法证明"
+      },
+      {
+        "chapter_number": 9,
+        "title": "第一次碰",
+        "goal": "需要证明的机会",
+        "key_events": [
+          "陈胖主动来问'还有没有别的'",
+          "张扬警告"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-pang",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "第一次碰——C级爽点，陈胖主动来问'还有没有别的'，张扬警告。",
+        "storyline_progress": "信息之钩——知识被换了名字"
+      },
+      {
+        "chapter_number": 10,
+        "title": "第一次证",
+        "goal": "水泥哥+没证教练同时曝光",
+        "key_events": [
+          "陈胖数据动了",
+          "工友集体办卡",
+          "老周宣布升实习教练"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-pang",
+          "lao-zhou",
+          "zhang-yang",
+          "huang-mao"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "第一次证——C→B双重爽点，陈胖数据动了，工友集体办卡，老周宣布升实习教练。",
+        "storyline_progress": "信息之钩——双重身份曝光"
+      },
+      {
+        "chapter_number": 11,
+        "title": "程渡",
+        "goal": "考证培训+程渡深入接触",
+        "key_events": [
+          "知识可以'翻译'",
+          "火锅药浴",
+          "顾长风在走廊拦下他"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "cheng-du",
+          "gu-changfeng"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "程渡线——考证培训，火锅药浴喜剧，顾长风在走廊拦下他。",
+        "storyline_progress": "反转式——顾长风在走廊拦下他"
+      },
+      {
+        "chapter_number": 12,
+        "title": "故人",
+        "goal": "旧世界的招揽 vs 新的方向",
+        "key_events": [
+          "工友送鞋",
+          "笔记本'翻译'",
+          "行。明天。",
+          "刘雨桐出现"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "gu-changfeng",
+          "liu-yutong",
+          "li-shifu",
+          "huang-mao"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "第一卷高潮——B级情感型爽点，工友送鞋，笔记本翻译，告别工地。刘雨桐出现为下卷铺垫。",
+        "storyline_progress": "第一卷高潮——选择方向+告别工地"
+      },
+      {
+        "chapter_number": 13,
+        "title": "刘雨桐",
+        "goal": "克服膝盖恐惧——不是不能站，是不敢",
+        "key_events": [
+          "凌晨五点刘雨桐已经在等",
+          "站桩姿势对了",
+          "程渡告知顾长风比赛邀请"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "cheng-du",
+          "gu-changfeng"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "刘雨桐第一天站桩——C级爽点，凌晨五点已经在等，站桩姿势对了，程渡告知顾长风消息。",
+        "storyline_progress": "升级式——程渡告知顾长风比赛邀请"
+      },
+      {
+        "chapter_number": 14,
+        "title": "站桩",
+        "goal": "站桩的内在意义——不是练腿，是练心",
+        "key_events": [
+          "站桩第三天腿不抖了",
+          "考试通过正式教练",
+          "陈胖老婆加入"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "站桩见效——C级爽点，刘雨桐腿不抖了，考试通过成为正式教练，陈胖老婆加入。",
+        "storyline_progress": "升级式——考试通过正式上班"
+      },
+      {
+        "chapter_number": 15,
+        "title": "蜕变",
+        "goal": "刘雨桐从站桩到深蹲的跨越",
+        "key_events": [
+          "正式上班第一天戴工牌",
+          "刘雨桐跑了五十米膝盖不疼",
+          "想学'以前练的那种'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "蜕变——C级爽点，正式上班戴工牌，刘雨桐跑了五十米膝盖不疼了。",
+        "storyline_progress": "升级式——刘雨桐想学'以前练的那种'"
+      },
+      {
+        "chapter_number": 16,
+        "title": "比赛",
+        "goal": "现代搏击 vs 真正的武功",
+        "key_events": [
+          "顾长风武馆搏击比赛",
+          "江临渊当众拒绝顾长风",
+          "顾长风约吃饭被拒"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gu-changfeng"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "比赛——C级爽点，江临渊当众拒绝顾长风的公开挑战。",
+        "storyline_progress": "升级式——顾长风约三人火锅"
+      },
+      {
+        "chapter_number": 17,
+        "title": "标准",
+        "goal": "张扬朋友圈暗箭+顾长风通过程渡施压",
+        "key_events": [
+          "刘雨桐首次感知'气'",
+          "张扬朋友圈暗箭",
+          "顾长风约三人火锅"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "zhang-yang",
+          "cheng-du",
+          "gu-changfeng"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "标准——C级爽点，刘雨桐首次感知'气'，张扬朋友圈暗箭，顾长风约三人火锅。",
+        "storyline_progress": "断章式——明天火锅正面交锋"
+      },
+      {
+        "chapter_number": 18,
+        "title": "火锅",
+        "goal": "顾长风在火锅桌上试探江临渊的底线",
+        "key_events": [
+          "顾长风以老朋友姿态拉拢",
+          "程渡察觉气氛不对",
+          "张扬匿名爆料扩散"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gu-changfeng",
+          "cheng-du",
+          "zhang-yang",
+          "yang-yang"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "火锅——顾长风试探底线，程渡察觉不对，张扬匿名爆料扩散到会员群。铺垫章。",
+        "storyline_progress": "升级——火锅散场，匿名爆料升级"
+      },
+      {
+        "chapter_number": 19,
+        "title": "暗箭",
+        "goal": "张扬朋友圈被截图扩散，老周面临信任危机",
+        "key_events": [
+          "刘雨桐当面维护江临渊",
+          "张扬删朋友圈",
+          "实操考试报名"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "zhang-yang",
+          "lao-zhou",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "暗箭——C级情感型爽点，刘雨桐公开维护江临渊，张扬删帖，实操考试报名到手。",
+        "storyline_progress": "反转——老周请剑南春"
+      },
+      {
+        "chapter_number": 20,
+        "title": "规则",
+        "goal": "实操考试——'科学vs气脉'的冲突",
+        "key_events": [
+          "拿到证书SC202600317",
+          "体能测试省队水平",
+          "气脉健身体系雏形形成"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "cheng-du",
+          "liu-yutong",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "规则——B级信息型爽点，实操考试通过拿到证书，体能测试碾压式通过，气脉健身体系雏形形成。",
+        "storyline_progress": "升级——气脉健身体系雏形形成"
+      },
+      {
+        "chapter_number": 21,
+        "title": "站桩",
+        "goal": "三类学员站桩对比：规则vs人心",
+        "key_events": [
+          "高姐出场——'靠自己站起来'",
+          "三学员站桩数据进步",
+          "笔记本写下'气脉'又划掉"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gao-jie",
+          "liu-yutong",
+          "chen-pang",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "站桩——C级信息型爽点，高姐出场'靠自己站起来'，三学员站桩内外对比冲突。",
+        "storyline_progress": "断章——笔记本'气脉'二字写下又划掉"
+      },
+      {
+        "chapter_number": 22,
+        "title": "发酵",
+        "goal": "匿名爆料扩散到行业圈，老周面临选择",
+        "key_events": [
+          "自媒体推文'某健身房违规聘用无证教练'",
+          "老周面临保江还是保店",
+          "老周公开表态"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "发酵——B级情感型爽点，老周当众公开表态'他是我的人，我的店，我的规矩'。",
+        "storyline_progress": "反转——老周公开挺江临渊"
+      },
+      {
+        "chapter_number": 23,
+        "title": "验收",
+        "goal": "四个学员数据摆在面前，无声胜有声",
+        "key_events": [
+          "四学员数据震惊全场",
+          "张扬第一次无言以对",
+          "刘雨桐正式请求学功夫"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "chen-pang",
+          "liu-yutong",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "验收——A级打脸爽点，四学员数据震惊全场，张扬无言以对，刘雨桐请求学'以前练的那种'。",
+        "storyline_progress": "升级——刘雨桐请求学真正的功夫"
+      },
+      {
+        "chapter_number": 24,
+        "title": "功夫",
+        "goal": "教'功夫'还是教'健身'的界限冲突",
+        "key_events": [
+          "教刘雨桐真正的站桩心法",
+          "气脉核心概念完成",
+          "内力在现代世界的名字"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "功夫——B级信息型爽点，江临渊教刘雨桐真正的站桩心法，'气脉健身法'核心概念完成。",
+        "storyline_progress": "断章——丹田到脚底的那条线"
+      },
+      {
+        "chapter_number": 25,
+        "title": "暗流",
+        "goal": "顾长风从个人挑战转向商业施压",
+        "key_events": [
+          "顾长风提出联合办班",
+          "程渡暗中摸底",
+          "确认收编意图"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gu-changfeng",
+          "cheng-du",
+          "lao-zhou"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "暗流——铺垫章，顾长风商业合作邀约实为收编，程渡摸底确认意图。",
+        "storyline_progress": "升级——不是合作是收编"
+      },
+      {
+        "chapter_number": 26,
+        "title": "靠近",
+        "goal": "陈胖从'江教练'到'师父'的情感转变铺垫",
+        "key_events": [
+          "陈胖深蹲突破100公斤",
+          "'能扛得住'不是杠铃是生活",
+          "陈胖想说什么没说出口"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "靠近——C级暖意，陈胖深蹲突破100公斤，'能扛得住'不是杠铃是生活。",
+        "storyline_progress": "断章——陈胖想说什么没说出口"
+      },
+      {
+        "chapter_number": 27,
+        "title": "师父",
+        "goal": "陈胖脱口叫'师父'——全书情感高潮",
+        "key_events": [
+          "陈胖叫'师父'",
+          "江临渊说'不是师父是教练'",
+          "右手摸腰侧"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "师父——A级情感型爽点，全书情感高潮之一，陈胖叫出'师父'两个字。",
+        "storyline_progress": "升级——从'教练'到'师父'的情感临界点"
+      },
+      {
+        "chapter_number": 28,
+        "title": "气脉",
+        "goal": "气脉健身法正式命名+教学大纲完成",
+        "key_events": [
+          "教学大纲整理成形",
+          "老周决定支持独立开课",
+          "'气脉健身'正式命名"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "气脉——B级信息型爽点，气脉健身法正式命名，老周决定腾时段支持独立开课。",
+        "storyline_progress": "升级——气脉健身法正式课程"
+      },
+      {
+        "chapter_number": 29,
+        "title": "回应",
+        "goal": "顾长风从收编到围堵——第四家分馆+百万粉博主",
+        "key_events": [
+          "长风武馆开第四家分馆",
+          "乔宇发视频质疑",
+          "张扬开始观察转变"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gu-changfeng",
+          "cheng-du",
+          "qiao-yu",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "回应——C级信息型，顾长风围堵升级开店+博主质疑，张扬开始观察转变。",
+        "storyline_progress": "反转——顾长风在开业时邀请"
+      },
+      {
+        "chapter_number": 30,
+        "title": "求存",
+        "goal": "第二卷收尾——回望'求存'主题",
+        "key_events": [
+          "回顾从扛水泥到被叫师父",
+          "气脉健身法完成",
+          "老周腾时段开课"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "chen-pang",
+          "liu-yutong",
+          "gao-jie"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "求存——B级情感型，第二卷收尾，'存不是活着，是存在着，被人需要着'。",
+        "storyline_progress": "升级——第三卷'破土'开始"
+      },
+      {
+        "chapter_number": 31,
+        "title": "破土",
+        "goal": "气脉健身第一堂课——六个人站了四十分钟",
+        "key_events": [
+          "第一堂气脉健身课",
+          "新学员立竿见影改善",
+          "程渡'像本来就该站在那里'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou",
+          "cheng-du",
+          "liu-yutong",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "破土——B级情感型，气脉健身第一堂课，新学员效果立竿见影，程渡说他'像本来就该站在那里'。",
+        "storyline_progress": "升级——气脉健身从理论到实践"
+      },
+      {
+        "chapter_number": 32,
+        "title": "名声",
+        "goal": "口碑传播带来规模化问题——一个人教不过来",
+        "key_events": [
+          "朋友圈被疯狂转发",
+          "八个咨询电话",
+          "核心矛盾：内力感知只有他能做到"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "名声——C级信息型，气脉健身法口碑传播，八个咨询电话，面临规模化问题。",
+        "storyline_progress": "断章——怎么教别人教别人"
+      },
+      {
+        "chapter_number": 33,
+        "title": "带人",
+        "goal": "陈胖第一次带新人——'教别人教别人'实验",
+        "key_events": [
+          "陈胖教程序员站桩成功",
+          "刘雨桐主动提出带跑者",
+          "老学员可以教基础"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-pang",
+          "liu-yutong"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "带人——C级信息型，陈胖第一次带新人成功，'教别人教别人'实验初见成效。",
+        "storyline_progress": "升级——老学员可以教基础"
+      },
+      {
+        "chapter_number": 34,
+        "title": "呼吸",
+        "goal": "赵一帆焦虑症——呼吸法可以独立成板块",
+        "key_events": [
+          "赵一帆焦虑发作手抖",
+          "'抖没关系呼吸就行'",
+          "呼吸法独立板块确认"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "zhao-yifan"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "呼吸——B级情感型，赵一帆出场，呼吸法让手抖停了，'终于有人没让我别抖了'。",
+        "storyline_progress": "断章——呼吸可为独立板块"
+      },
+      {
+        "chapter_number": 35,
+        "title": "试试",
+        "goal": "苏姐'不变应万变'——心态板块确认",
+        "key_events": [
+          "苏姐门口犹豫三天",
+          "'站不住就站不住'",
+          "不变应万变心态教学"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "su-jie"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "试试——C级暖意，苏姐出场'不变应万变'，'站不住就站不住'落在需要的人身上。",
+        "storyline_progress": "反转——苏姐主动提出不变应万变"
+      },
+      {
+        "chapter_number": 36,
+        "title": "三徒",
+        "goal": "三徒格局成形——学员在教学员",
+        "key_events": [
+          "三组同时训练",
+          "陈胖基础/刘雨桐身体/赵一帆呼吸/苏姐心境",
+          "'不必处处在场'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "zhao-yifan",
+          "su-jie",
+          "chen-pang"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "三徒——B级信息型，三徒格局成形，三角结构完成框架搭建。",
+        "storyline_progress": "升级——刘雨桐收到格斗赛邀请"
+      },
+      {
+        "chapter_number": 37,
+        "title": "师父（格斗赛）",
+        "goal": "刘雨桐业余格斗赛赢了——徒弟公开叫师父",
+        "key_events": [
+          "刘雨桐赢了业余格斗赛",
+          "公开叫'江临渊我师父'",
+          "乔宇在现场录像被触动"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "qiao-yu"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "师父（格斗赛）——A级多重爽点，刘雨桐赢了比赛公开叫师父，乔宇被触动。",
+        "storyline_progress": "断章——乔宇开始研究站桩"
+      },
+      {
+        "chapter_number": 38,
+        "title": "玄学",
+        "goal": "乔宇发视频质疑——有道理的质疑",
+        "key_events": [
+          "乔宇发视频'健身不是玄学'",
+          "粉丝涌入评论区",
+          "确实没有标准化数据"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "qiao-yu",
+          "lao-zhou"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "玄学——铺垫章，乔宇发视频质疑，有道理的质疑，江临渊承认'他说得对'。",
+        "storyline_progress": "升级——但数据不只是"
+      },
+      {
+        "chapter_number": 39,
+        "title": "数据",
+        "goal": "用学员手写记录回应'数据'",
+        "key_events": [
+          "三个月学员记录摆在桌上",
+          "找茬者无言以对",
+          "张扬第一次公开开口帮忙"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "zhang-yang",
+          "lao-zhou",
+          "yang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "数据——B级双线爽点，数据碾压+张扬第一次公开站队'数据是真的'。",
+        "storyline_progress": "反转——张扬第一次开口"
+      },
+      {
+        "chapter_number": 40,
+        "title": "定位",
+        "goal": "程渡介绍小何——'水泥哥'需要新定位",
+        "key_events": [
+          "程渡介绍小何做运营",
+          "程渡在车里想说什么没说",
+          "小何加微信"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "cheng-du",
+          "xiao-he"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "定位——铺垫章，程渡介绍小何，程渡感情线在暗处蓄力。",
+        "storyline_progress": "断章——小何加微信"
+      },
+      {
+        "chapter_number": 41,
+        "title": "登门",
+        "goal": "乔宇亲自登门体验——'不是骗人的'",
+        "key_events": [
+          "乔宇一个人来没有摄像机",
+          "亲自体验站桩脚底发热",
+          "'不是玄学''我会再来的'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "qiao-yu",
+          "lao-zhou"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "登门——A级信息型+情感型，百万粉博主亲身体验后被触动，'不是骗人的'。",
+        "storyline_progress": "升级——小何问定位"
+      },
+      {
+        "chapter_number": 42,
+        "title": "生根",
+        "goal": "定位视频爆了——'教你生根'",
+        "key_events": [
+          "小何拍第一条定位视频",
+          "'教你生根'概念确立",
+          "二十四小时播放量破百万"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "xiao-he",
+          "liu-yutong"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "生根——B级信息型，定位从'水泥哥'蜕变为'教你生根'，视频播放量破百万。",
+        "storyline_progress": "反转——品牌定位确立"
+      },
+      {
+        "chapter_number": 43,
+        "title": "围堵",
+        "goal": "顾长风免费体验月+收购邀约",
+        "key_events": [
+          "四家武馆免费体验月",
+          "顾长风'开个价'收购课程版权",
+          "程渡拒绝顾长风方案"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "gu-changfeng",
+          "cheng-du",
+          "lao-zhou"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "围堵——铺垫章，顾长风从收编升级为收购，商业打压进入新阶段。",
+        "storyline_progress": "断章——不卖，让他加码"
+      },
+      {
+        "chapter_number": 44,
+        "title": "拒绝",
+        "goal": "程渡表白被拒——干净而笨拙",
+        "key_events": [
+          "程渡做三菜一汤表白",
+          "江临渊'你做的菜很好吃'",
+          "程渡选择继续帮助"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "cheng-du"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "拒绝——B级情感型，全书最干净的拒绝戏，程渡从'喜欢'到'选择继续'。",
+        "storyline_progress": "反转——碗我洗你回去备课"
+      },
+      {
+        "chapter_number": 45,
+        "title": "站队",
+        "goal": "张扬正式站队——拒绝顾长风",
+        "key_events": [
+          "顾长风派人来挖张扬",
+          "张扬拒绝'我留下来'",
+          "张扬私下练了两个月站桩"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "zhang-yang"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "站队——A级情感型，张扬四步弧线完成，从对手到站队，'数据是真的'。",
+        "storyline_progress": "反转——张扬第一次感觉到气"
+      },
+      {
+        "chapter_number": 46,
+        "title": "扩张",
+        "goal": "从'一半店面'到'独立门店'",
+        "key_events": [
+          "老周盘隔壁铺子",
+          "江临渊坚持出一半钱",
+          "'一起扛'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-zhou"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "扩张——C级暖意，老周谈扩张，江临渊第一次主动花钱，'一起扛'。",
+        "storyline_progress": "升级——江临渊出钱合伙"
+      },
+      {
+        "chapter_number": 47,
+        "title": "沉默",
+        "goal": "乔宇学员体验站桩——'和而不同'",
+        "key_events": [
+          "乔宇带学员做对比",
+          "'膝盖热了'",
+          "乔宇握手'不打架了'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "qiao-yu",
+          "lao-zhou"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "沉默——A级信息型，乔宇从质疑到合作，'和而不同'，体育局邀请行业交流。",
+        "storyline_progress": "断章——体育局邀请函"
+      },
+      {
+        "chapter_number": 48,
+        "title": "老王",
+        "goal": "系统内第一个盟友——私下认可但不公开挺",
+        "key_events": [
+          "老王私下见面摸底",
+          "'你是真的'",
+          "给你一个说话的机会"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "lao-wang"
+        ],
+        "chapter_type": "climax",
+        "mood": "日常",
+        "estimated_words": 2500,
+        "chapter_summary": "老王——C级信息型，系统内第一个盟友出场，'你是真的'但不能公开挺。",
+        "storyline_progress": "升级——交流会还有顾长风"
+      },
+      {
+        "chapter_number": 49,
+        "title": "交流（上）",
+        "goal": "行业交流会——江临渊不辩解而是站桩",
+        "key_events": [
+          "圆桌二十人各路质疑",
+          "江临渊站桩十五分钟不动",
+          "张扬站起来公开站队"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "zhang-yang",
+          "lao-wang",
+          "gu-changfeng"
+        ],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "交流（上）——悬念章，行业交流会，江临渊站桩十五分钟+张扬站起来站队。",
+        "storyline_progress": "断章——为下半场做准备"
+      },
+      {
+        "chapter_number": 50,
+        "title": "交流（下）",
+        "goal": "不打而胜——全场沉默",
+        "key_events": [
+          "教授站桩失败",
+          "连锁教练站了十二分钟'不一样'",
+          "乔宇当众承认'我现在还在学'",
+          "顾长风被留在原地"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "qiao-yu",
+          "zhang-yang",
+          "lao-wang",
+          "gu-changfeng"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "交流（下）——S级全书最高级爽点，不打而胜，全场沉默，'三百年了'。",
+        "storyline_progress": "反转——但'他们看到了'"
+      },
+      {
+        "chapter_number": 51,
+        "title": "改名",
+        "goal": "投资人要改名包装——'改名不行'",
+        "key_events": [
+          "陈总提出三百万+改名方案",
+          "江临渊拒绝'改名不行'",
+          "'气脉不是一个名字是一个东西'"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "chen-zong"
+        ],
+        "chapter_type": "climax",
+        "mood": "小爽",
+        "estimated_words": 2500,
+        "chapter_summary": "改名——B级价值观型，'改名不行'是全书核心价值观的宣言。",
+        "storyline_progress": "反转——钱可以没有但气脉不能改"
+      },
+      {
+        "chapter_number": 52,
+        "title": "破土",
+        "goal": "第三卷收尾——从一个人到一个体系",
+        "key_events": [
+          "隔壁铺子打通独立空间",
+          "三徒格局全部就位",
+          "未知号码短信——陆沉线索"
+        ],
+        "involved_characters": [
+          "jiang-linyuan",
+          "liu-yutong",
+          "zhao-yifan",
+          "su-jie",
+          "chen-pang",
+          "zhang-yang",
+          "xiao-he"
+        ],
+        "chapter_type": "climax",
+        "mood": "大爽",
+        "estimated_words": 2500,
+        "chapter_summary": "破土——A级多重收束，第三卷破土主题完成闭环，第四卷悬念引爆。",
+        "storyline_progress": "断章——'天牢里的那个人不是只有顾长风'"
+      },
+      {
+        "chapter_number": 53,
+        "title": "未知号码",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 54,
+        "title": "追踪",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 55,
+        "title": "记忆碎片",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 56,
+        "title": "许曼追问",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 57,
+        "title": "暗流再起",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 58,
+        "title": "陆沉",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 59,
+        "title": "旧事",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 60,
+        "title": "合同陷阱",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 61,
+        "title": "孟姐出手",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 62,
+        "title": "顾长风的棋",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 63,
+        "title": "身份危机",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 64,
+        "title": "他不是这个时代的人",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 65,
+        "title": "舆论风暴",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 66,
+        "title": "学员表态",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 67,
+        "title": "站队",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 68,
+        "title": "三徒回应",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 69,
+        "title": "老王斡旋",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 70,
+        "title": "规则之内",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 71,
+        "title": "擂台之前",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 72,
+        "title": "老钟",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 73,
+        "title": "擂台（一）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 74,
+        "title": "擂台（二）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 75,
+        "title": "擂台（三）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 76,
+        "title": "降龙掌",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 77,
+        "title": "最后一式",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 78,
+        "title": "收拳",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 79,
+        "title": "真相（上）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 80,
+        "title": "真相（下）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 81,
+        "title": "陆沉的真相",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 82,
+        "title": "余震",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第四卷——对决"
+      },
+      {
+        "chapter_number": 83,
+        "title": "风暴前夕",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 84,
+        "title": "选择",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 85,
+        "title": "直播（一）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 86,
+        "title": "直播（二）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 87,
+        "title": "直播（三）",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 88,
+        "title": "只是教深蹲的教练",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 89,
+        "title": "余波",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 90,
+        "title": "芭蕾女生",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 91,
+        "title": "程序员",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 92,
+        "title": "退伍兵",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 93,
+        "title": "新门徒",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 94,
+        "title": "自然运转",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 95,
+        "title": "老周的老婆",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 96,
+        "title": "传承",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 97,
+        "title": "旗舰店",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 98,
+        "title": "叫教练",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 99,
+        "title": "开业",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 100,
+        "title": "门派",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 101,
+        "title": "盟主",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      },
+      {
+        "chapter_number": 102,
+        "title": "落定",
+        "goal": "",
+        "key_events": [],
+        "involved_characters": [],
+        "chapter_type": "setup",
+        "mood": "过渡/蓄力",
+        "estimated_words": 2500,
+        "chapter_summary": "（规划中，未写）",
+        "storyline_progress": "第五卷——立派"
+      }
+    ]
+  },
+  "volumes": [
+    {
+      "volume_number": 1,
+      "title": "坠落",
+      "status": "completed",
+      "volume_goal": "在底层活下来，被看见",
+      "chapters": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ],
+      "volume_outline": [
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "volume_number": 2,
+      "title": "求存",
+      "status": "completed",
+      "volume_goal": "在规则内找到位置，'被需要'的第一次实现",
+      "chapters": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ],
+      "volume_outline": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "volume_number": 3,
+      "title": "破土",
+      "status": "completed",
+      "volume_goal": "从一个人到一个体系——'不必处处在场'",
+      "chapters": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ],
+      "volume_outline": [
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "volume_number": 4,
+      "title": "对决",
+      "status": "planned",
+      "volume_goal": "面对过去的真相——能不能不靠拳头",
+      "chapters": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ],
+      "volume_outline": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "volume_number": 5,
+      "title": "立派",
+      "status": "planned",
+      "volume_goal": "传承不靠一个人——门派自己会运转",
+      "chapters": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ],
+      "volume_outline": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ]
+    }
+  ],
+  "world_setting": {
+    "era": "现代",
+    "location": "成都",
+    "power_system": {
+      "name": "气脉健身法",
+      "levels": [
+        {
+          "rank": 1,
+          "name": "基础站桩",
+          "description": "膝盖微屈、重心下沉，姿势摆对了就行",
+          "typical_abilities": [
+            "体态改善",
+            "基础体能"
+          ]
+        },
+        {
+          "rank": 2,
+          "name": "气感觉醒",
+          "description": "吸一口气从脚底到丹田，身体开始发热，疼的地方不疼了",
+          "typical_abilities": [
+            "疼痛缓解",
+            "情绪稳定"
+          ]
+        },
+        {
+          "rank": 3,
+          "name": "内力转化",
+          "description": "把练功那套道理翻成现代人听得懂的——不用内力这个词",
+          "typical_abilities": [
+            "运动康复",
+            "呼吸法教学"
+          ]
+        },
+        {
+          "rank": 4,
+          "name": "气脉贯通",
+          "description": "丹田=核心稳定、经络=筋膜链，气脉这一套东西能教给徒弟了",
+          "typical_abilities": [
+            "全体系教学",
+            "他人指导"
+          ]
+        }
+      ]
+    },
+    "terms": {
+      "气脉健身": "江临渊自己琢磨出来的教法，站桩打底，呼吸跟上，让身体自己说话",
+      "降龙掌": "降龙十八掌，当年全天下没人接得住。现在没人知道。",
+      "百鸟朝凤剑法": "传统剑法",
+      "水泥哥": "江临渊在工地扛水泥时的外号，后来成为抖音账号名",
+      "长风武馆": "顾长风在成都开的连锁武馆，共四家分馆",
+      "气脉": "站桩站到脚底发热、丹田有东西在走——江临渊管那条线叫气脉"
+    },
+    "rules": [
+      "这世界看你有没有钱、什么学历、认识谁、工作稳不稳——全是他没有的东西",
+      "武功在现代是'负债'不是资产",
+      "教健身要证，有证才能上台，没证你教得再好也是'违规'",
+      "他那一身本事只有一样能派上用场——对身体的理解"
+    ]
+  },
+  "characters": [
+    {
+      "character_id": "jiang-linyuan",
+      "name": "江临渊",
+      "alias": [
+        "盟主",
+        "水泥哥",
+        "江教练",
+        "师父"
+      ],
+      "gender": "男",
+      "age": 28,
+      "occupation": "健身教练",
+      "role": "主角",
+      "status": "active",
+      "appearance": {
+        "height": "182cm",
+        "build": "魁梧，肩极宽",
+        "hair": "长发束冠",
+        "eyes": "深邃沉稳",
+        "clothing_style": "黑色紧身运动衣（现代）/白色囚衣（穿越初期）",
+        "distinctive_features": [
+          "手骨粗大有剑痕",
+          "虎口旧剑痕",
+          "膝盖微屈如随时发力"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "隐忍",
+          "有原则",
+          "不认命",
+          "骨子里的傲",
+          "话少",
+          "在乎的人面前极软"
+        ],
+        "core_belief": "被需要才能证明活着",
+        "motivation": "被需要——不是当最强，是当一个有用的人",
+        "flaw": "无法放下'我必须亲自在场'的执念",
+        "speech_style": "冷淡简短，短句直给，不解释，不用语气词",
+        "catchphrases": [
+          "行。",
+          "不错。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "a-qi",
+          "current_type": "师徒",
+          "description": "师弟，从小跟在身后，铁链两边互相递馒头三年",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "lu-chen",
+          "current_type": "背叛",
+          "description": "师叔，暗中与顾长风合作，背叛了门派",
+          "intensity": 8,
+          "history": []
+        },
+        {
+          "target_character_id": "gu-changfeng",
+          "current_type": "敌对",
+          "description": "死敌，同穿越者，走完全相反的路",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "lao-zhou",
+          "current_type": "合作",
+          "description": "老板→大哥→合伙人，气脉健身第一个投资人",
+          "intensity": 5,
+          "history": []
+        },
+        {
+          "target_character_id": "chen-pang",
+          "current_type": "师徒",
+          "description": "第一个徒弟，第一个叫他'师父'的人",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "cheng-du",
+          "current_type": "合作",
+          "description": "被拒绝后仍选择继续帮助，'说。'",
+          "intensity": 5,
+          "history": []
+        },
+        {
+          "target_character_id": "zhang-yang",
+          "current_type": "竞争",
+          "description": "从对手到站队，被数据说服的科班教练",
+          "intensity": 6,
+          "history": []
+        },
+        {
+          "target_character_id": "liu-yutong",
+          "current_type": "师徒",
+          "description": "第一个真正的徒弟，运动康复板块继承者",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "zhao-yifan",
+          "current_type": "师徒",
+          "description": "呼吸法板块继承者",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "su-jie",
+          "current_type": "师徒",
+          "description": "心态/定力板块继承者",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "qiao-yu",
+          "current_type": "合作",
+          "description": "从对手到'和而不同'，不打架了",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "武林盟主，万人跪伏",
+        "turning_points": [
+          {
+            "chapter": 1,
+            "event": "穿越到2026年成都",
+            "change": "所有强大变成无用"
+          },
+          {
+            "chapter": 12,
+            "event": "告别工地进健身房",
+            "change": "找到第一个位置"
+          },
+          {
+            "chapter": 27,
+            "event": "陈胖叫师父",
+            "change": "重新被需要"
+          },
+          {
+            "chapter": 50,
+            "event": "行业交流不打而胜",
+            "change": "从用拳头赢到不需要赢"
+          }
+        ],
+        "final_state": "气脉健身创始人，新'门派'建立者"
+      }
+    },
+    {
+      "character_id": "a-qi",
+      "name": "阿七",
+      "alias": [
+        "师弟"
+      ],
+      "gender": "男",
+      "age": 22,
+      "occupation": "武林弟子",
+      "role": "旧世界角色",
+      "status": "inactive",
+      "appearance": {
+        "height": null,
+        "build": "手指粗，手上有练拳的茧",
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": [
+          "牙缺了一颗——替人挡剑磕掉的"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "最笨的手+最细的心",
+          "忠诚",
+          "话多"
+        ],
+        "core_belief": "跟着师兄走",
+        "motivation": "守护师兄",
+        "flaw": "太在意师兄",
+        "speech_style": "话比江临渊多，语速快，笑的时候嘴咧很大",
+        "catchphrases": [
+          "没事",
+          "你别管"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "师徒",
+          "description": "师弟，铁链两边互相递馒头三年，比亲兄弟多一层东西",
+          "intensity": 9,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "江临渊的师弟，从小跟在身边",
+        "turning_points": [],
+        "final_state": "门派被血洗时——（待揭示）"
+      }
+    },
+    {
+      "character_id": "lu-chen",
+      "name": "陆沉",
+      "alias": [
+        "师叔"
+      ],
+      "gender": "男",
+      "age": 55,
+      "occupation": "门派长老",
+      "role": "旧世界角色",
+      "status": "inactive",
+      "appearance": {
+        "height": null,
+        "build": "背微驼",
+        "hair": "头发白了大半",
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": [
+          "左手垂着——年轻时被人伤了筋"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "看起来温和",
+          "做了最不可挽回的事",
+          "自欺"
+        ],
+        "core_belief": "我只是把他移开——不会让他死",
+        "motivation": "怕江临渊的'不转弯'会毁了整个门派",
+        "flaw": "把背叛包装成保护",
+        "speech_style": "温和、慢、长辈的语调，话在喉咙里磨一遍才出来",
+        "catchphrases": [
+          "那孩子不会转弯。你帮我看着他。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "背叛",
+          "description": "看着他长大，暗中与顾长风合作背叛门派",
+          "intensity": 8,
+          "history": []
+        },
+        {
+          "target_character_id": "gu-changfeng",
+          "current_type": "合作",
+          "description": "同盟——陆沉提供内部信息和信任，顾长风提供外部力量",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "看着江临渊长大的师叔，门派长老",
+        "turning_points": [],
+        "final_state": "第五卷——江临渊直播时不说他的名字，不是原谅，是不值得再提"
+      }
+    },
+    {
+      "character_id": "li-shifu",
+      "name": "李师傅",
+      "alias": [
+        "工头"
+      ],
+      "gender": "男",
+      "age": 52,
+      "occupation": "包工头",
+      "role": "第一卷角色",
+      "status": "inactive",
+      "appearance": {
+        "height": "170cm",
+        "build": "结实",
+        "hair": "花白短发",
+        "eyes": null,
+        "clothing_style": "旧夹克",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "说话糙",
+          "心不坏",
+          "看人看干不干活"
+        ],
+        "core_belief": "不偷的人，命长",
+        "motivation": null,
+        "flaw": null,
+        "speech_style": "说话糙",
+        "catchphrases": [
+          "这娃不说话，但干活不偷。不偷的人，命长。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "收留他的人，第一个上级",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "成都本地包工头",
+        "turning_points": [],
+        "final_state": "第10章告别——留了一双新鞋，'买的，不是偷的'"
+      }
+    },
+    {
+      "character_id": "huang-mao",
+      "name": "黄毛",
+      "alias": [],
+      "gender": "男",
+      "age": 21,
+      "occupation": "工友",
+      "role": "第一卷角色",
+      "status": "inactive",
+      "appearance": {
+        "height": "172cm",
+        "build": "瘦",
+        "hair": "染黄发",
+        "eyes": null,
+        "clothing_style": "工地工装",
+        "distinctive_features": [
+          "手机不离手"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "话多",
+          "自来熟",
+          "拍什么都觉得好玩",
+          "心大不记仇"
+        ],
+        "core_belief": "好玩就拍",
+        "motivation": "凑热闹、找乐子",
+        "flaw": "三分钟热度",
+        "speech_style": "话多，自来熟",
+        "catchphrases": []
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "'水泥哥'账号的创建者，这个世界的解说员",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "年轻工友，手机不离手",
+        "turning_points": [],
+        "final_state": "第10章和工友们一起出现在健身房办卡"
+      }
+    },
+    {
+      "character_id": "lao-wei",
+      "name": "老魏",
+      "alias": [],
+      "gender": "男",
+      "age": 52,
+      "occupation": "老工友",
+      "role": "第一卷角色",
+      "status": "inactive",
+      "appearance": {
+        "height": null,
+        "build": "干瘦",
+        "hair": null,
+        "eyes": null,
+        "clothing_style": "旧工装",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "沉默",
+          "干活稳",
+          "从不多问"
+        ],
+        "core_belief": "干活就行",
+        "motivation": "——",
+        "flaw": "——",
+        "speech_style": "沉默寡言",
+        "catchphrases": [
+          "……（沉默）"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "沉默同类——坐在一起不说话但最舒服的沉默",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "老工友，沉默寡言",
+        "turning_points": [],
+        "final_state": "第8章——签名的安全帽就是他递给江临渊的"
+      }
+    },
+    {
+      "character_id": "lao-zhou",
+      "name": "老周",
+      "alias": [
+        "周建国"
+      ],
+      "gender": "男",
+      "age": 51,
+      "occupation": "健身房老板",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": "微胖",
+        "hair": "灰白短发",
+        "eyes": "戴眼镜",
+        "clothing_style": "旧运动外套",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "看起来圆滑",
+          "交了最深的朋友",
+          "唠叨但有温度",
+          "怕再失去任何人"
+        ],
+        "core_belief": "守住这家店",
+        "motivation": "亡妻的遗愿——守住这家店",
+        "flaw": "老婆走后怕再失去任何人",
+        "speech_style": "长句唠叨但有温度，语速快爱抢话",
+        "catchphrases": [
+          "你是我的人。",
+          "我跟你说。",
+          "你听我的。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "老板→大哥→合伙人，气脉健身第一个投资人",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "快倒闭的小健身房老板",
+        "turning_points": [],
+        "final_state": "气脉健身第一个投资人"
+      }
+    },
+    {
+      "character_id": "chen-pang",
+      "name": "陈胖",
+      "alias": [
+        "陈大勇"
+      ],
+      "gender": "男",
+      "age": 30,
+      "occupation": "上班族",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "175cm",
+        "build": "偏胖→逐渐变瘦",
+        "hair": "普通短发",
+        "eyes": null,
+        "clothing_style": "宽松T恤运动裤",
+        "distinctive_features": [
+          "说话小声",
+          "走路低头"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "最软的外壳+最硬的决心",
+          "说话小声",
+          "最忠诚"
+        ],
+        "core_belief": "能扛得住",
+        "motivation": "被前女友甩后重建自己",
+        "flaw": "过度道歉",
+        "speech_style": "试探式，说半句停半句",
+        "catchphrases": [
+          "对不起",
+          "谢谢",
+          "江教练……你还有没有别的？"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "师徒",
+          "description": "学员→第一个'徒弟'→叫'师父'，从头到尾没离开",
+          "intensity": 9,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "被前女友甩的普通上班族",
+        "turning_points": [],
+        "final_state": "气脉健身基础板块教练，最忠诚的徒弟"
+      }
+    },
+    {
+      "character_id": "cheng-du",
+      "name": "程渡",
+      "alias": [],
+      "gender": "男",
+      "age": 32,
+      "occupation": "设计公司老板",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "178cm",
+        "build": "匀称",
+        "hair": "有型的短发",
+        "eyes": null,
+        "clothing_style": "有品位",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "表面玩世不恭",
+          "内心最认真",
+          "嘴碎爱笑"
+        ],
+        "core_belief": "在乎一个人不需要回报",
+        "motivation": "帮助江临渊",
+        "flaw": "嘴太碎，心事太重不说",
+        "speech_style": "反问+调侃，语速快但会停",
+        "catchphrases": [
+          "啧。",
+          "行吧。",
+          "妈的，白教你用手机了。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "暗恋",
+          "description": "喜欢→被拒绝→选择继续帮助，每次回复都是'说。'",
+          "intensity": 7,
+          "history": []
+        },
+        {
+          "target_character_id": "gu-changfeng",
+          "current_type": "利用",
+          "description": "表面配合实际摸底，替江临渊暗中斡旋",
+          "intensity": 4,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "健身房高级会员，注意到江临渊",
+        "turning_points": [],
+        "final_state": "每次江临渊需要帮忙，他的回复永远是'说。'"
+      }
+    },
+    {
+      "character_id": "zhang-yang",
+      "name": "张扬",
+      "alias": [],
+      "gender": "男",
+      "age": 28,
+      "occupation": "健身教练",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "180cm",
+        "build": "标准教练体型",
+        "hair": "精神短发",
+        "eyes": null,
+        "clothing_style": "专业运动装备",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "相信科班",
+          "不是坏人",
+          "规则捍卫者"
+        ],
+        "core_belief": "科学规范才是对的",
+        "motivation": "证明自己",
+        "flaw": "看不起'野路子'",
+        "speech_style": "断言式，中速",
+        "catchphrases": [
+          "你不懂。",
+          "科学来说……"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "竞争",
+          "description": "从对手到被数据说服，'你可以教我站桩'",
+          "intensity": 6,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "科班出身的老员工，看不起江临渊",
+        "turning_points": [],
+        "final_state": "气脉健身教学主管"
+      }
+    },
+    {
+      "character_id": "liu-yutong",
+      "name": "刘雨桐",
+      "alias": [],
+      "gender": "女",
+      "age": 26,
+      "occupation": "退役运动员",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "165cm",
+        "build": "强壮",
+        "hair": "马尾辫",
+        "eyes": null,
+        "clothing_style": "运动背心短裤",
+        "distinctive_features": [
+          "膝盖有旧伤"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "最强壮的体格+最脆弱的自我价值",
+          "不服输",
+          "只对自己狠"
+        ],
+        "core_belief": "我可以",
+        "motivation": "证明自己还能运动",
+        "flaw": "脆弱的自我价值",
+        "speech_style": "命令式（对自己），语速快",
+        "catchphrases": [
+          "我可以。",
+          "再来。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "师徒",
+          "description": "第一个真正的徒弟，运动康复板块继承者",
+          "intensity": 9,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "退役运动员，膝盖旧伤被判'不能运动'",
+        "turning_points": [],
+        "final_state": "气脉健身的康复师"
+      }
+    },
+    {
+      "character_id": "zhao-yifan",
+      "name": "赵一帆",
+      "alias": [],
+      "gender": "男",
+      "age": 23,
+      "occupation": "待业",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "173cm",
+        "build": "瘦",
+        "hair": "刘海遮眼",
+        "eyes": null,
+        "clothing_style": "宽松卫衣",
+        "distinctive_features": [
+          "低着头",
+          "手指在裤缝上搓"
+        ]
+      },
+      "personality": {
+        "traits": [
+          "极度内向",
+          "社恐",
+          "网上能正常说话"
+        ],
+        "core_belief": null,
+        "motivation": "克服焦虑症",
+        "flaw": "极度内向",
+        "speech_style": "试探式，声音小",
+        "catchphrases": []
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "师徒",
+          "description": "呼吸法板块继承者",
+          "intensity": 9,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "社恐宅男，焦虑症",
+        "turning_points": [],
+        "final_state": "气脉健身的呼吸/冥想教练"
+      }
+    },
+    {
+      "character_id": "su-jie",
+      "name": "苏姐",
+      "alias": [],
+      "gender": "女",
+      "age": 37,
+      "occupation": "中年离异女性",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "160cm",
+        "build": "普通",
+        "hair": "中长发",
+        "eyes": null,
+        "clothing_style": "素色运动服",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "表面柔弱",
+          "内心有刚",
+          "三十七岁第一次进健身房"
+        ],
+        "core_belief": "不变应万变",
+        "motivation": "重建自己",
+        "flaw": "从未坚持过任何东西",
+        "speech_style": "轻声细语但坚定",
+        "catchphrases": [
+          "我这辈子没有坚持过任何东西。这次——我想试试。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "师徒",
+          "description": "心态/定力板块继承者",
+          "intensity": 9,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "中年离异女性",
+        "turning_points": [],
+        "final_state": "气脉健身最受欢迎的教练——专门带四十岁以上女性学员"
+      }
+    },
+    {
+      "character_id": "qiao-yu",
+      "name": "乔宇",
+      "alias": [
+        "乔教练Joe"
+      ],
+      "gender": "男",
+      "age": 30,
+      "occupation": "健身博主",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "183cm",
+        "build": "精干",
+        "hair": "短发",
+        "eyes": null,
+        "clothing_style": "运动服",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "自信到傲慢",
+          "对自己的学员确实负责",
+          "不是坏人"
+        ],
+        "core_belief": "健身不是玄学，需要规范",
+        "motivation": "保护学员",
+        "flaw": "不接受不规范",
+        "speech_style": "自信断言，短视频口吻",
+        "catchphrases": [
+          "健身不是玄学。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "竞争",
+          "description": "从质疑到'和而不同'，不打架了",
+          "intensity": 6,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "百万粉健身博主，成都有三家连锁健身房",
+        "turning_points": [],
+        "final_state": "和江临渊达成'互不打扰'的默契"
+      }
+    },
+    {
+      "character_id": "gu-changfeng",
+      "name": "顾长风",
+      "alias": [],
+      "gender": "男",
+      "age": 28,
+      "occupation": "连锁武馆老板",
+      "role": "第四卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "逻辑自洽",
+          "选择用武功在新世界称王",
+          "不是纯粹的恶"
+        ],
+        "core_belief": "既然穿越了，武功就是我们的优势",
+        "motivation": "用武功称王",
+        "flaw": "永远用三百年前的方式看人",
+        "speech_style": "长句，自问自答，慢而有压迫感，把挑衅包装成'为你好'",
+        "catchphrases": [
+          "你还不明白吗。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "敌对",
+          "description": "死敌→招揽→商业打压→擂台对决→告别",
+          "intensity": 9,
+          "history": []
+        },
+        {
+          "target_character_id": "lu-chen",
+          "current_type": "合作",
+          "description": "同盟——天牢计划的合作者",
+          "intensity": 5,
+          "history": []
+        },
+        {
+          "target_character_id": "cheng-du",
+          "current_type": "利用",
+          "description": "想通过程渡商业网搞江临渊",
+          "intensity": 4,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "同穿越者，江临渊在武侠世界的死敌",
+        "turning_points": [],
+        "final_state": "离开成都，两人最后一面——不是和解，是承认"
+      }
+    },
+    {
+      "character_id": "lao-wang",
+      "name": "老王",
+      "alias": [],
+      "gender": "男",
+      "age": 45,
+      "occupation": "体育局官员",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": "戴眼镜",
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "体制内的谨慎",
+          "个人的真诚"
+        ],
+        "core_belief": "你是真的",
+        "motivation": "在规则内帮忙",
+        "flaw": "不能公开挺",
+        "speech_style": "说话慢，每一句都像在掂量",
+        "catchphrases": [
+          "我没办法公开挺你。但你的方法——能给我看看吗？"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "系统内第一个盟友，私下认可但不方便公开",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "体育局负责健身教练资格认证的中年人",
+        "turning_points": [],
+        "final_state": "替江临渊在规则内找到合法空间"
+      }
+    },
+    {
+      "character_id": "xiao-he",
+      "name": "小何",
+      "alias": [],
+      "gender": "女",
+      "age": 22,
+      "occupation": "抖音运营",
+      "role": "第三卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "162cm",
+        "build": "瘦",
+        "hair": "扎小辫",
+        "eyes": null,
+        "clothing_style": "休闲卫衣",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "专业眼光准",
+          "说话带梗",
+          "年轻人有冲劲"
+        ],
+        "core_belief": "定位决定一切",
+        "motivation": "帮江临渊做品牌",
+        "flaw": null,
+        "speech_style": "年轻直接，想到什么说什么",
+        "catchphrases": [
+          "江老师你的定位是什么？"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "程渡介绍来的抖音运营",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "程渡介绍的抖音运营",
+        "turning_points": [],
+        "final_state": "气脉健身品牌运营"
+      }
+    },
+    {
+      "character_id": "yang-yang",
+      "name": "小杨",
+      "alias": [],
+      "gender": "女",
+      "age": 21,
+      "occupation": "健身房前台",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "嘴快",
+          "天然友好",
+          "对喜欢的人好对讨厌的人翻白眼"
+        ],
+        "core_belief": "——",
+        "motivation": "——",
+        "flaw": "——",
+        "speech_style": "嘴快",
+        "catchphrases": [
+          "啊啊啊",
+          "你们看！"
+        ]
+      },
+      "relationships": [],
+      "character_arc": {
+        "initial_state": "健身房前台",
+        "turning_points": [],
+        "final_state": "气脉健身最活跃的前台+野生品牌推广"
+      }
+    },
+    {
+      "character_id": "gao-jie",
+      "name": "高姐",
+      "alias": [],
+      "gender": "女",
+      "age": 50,
+      "occupation": "学员",
+      "role": "第二卷角色",
+      "status": "active",
+      "appearance": {
+        "height": "158cm",
+        "build": "微胖",
+        "hair": "短发微卷",
+        "eyes": null,
+        "clothing_style": "宽松运动装",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "要强",
+          "怕给孩子添麻烦",
+          "有股不服输的劲"
+        ],
+        "core_belief": "不给孩子添负担",
+        "motivation": "靠自己站起来",
+        "flaw": "这把年纪还在逞强",
+        "speech_style": null,
+        "catchphrases": [
+          "我想靠自己站起来。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "崇拜",
+          "description": "学员，和江临渊一样想靠自己",
+          "intensity": 7,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "五十岁学员，膝盖不好",
+        "turning_points": [],
+        "final_state": "气脉健身常驻学员，心态越来越好"
+      }
+    },
+    {
+      "character_id": "xu-man",
+      "name": "许曼",
+      "alias": [],
+      "gender": "女",
+      "age": 30,
+      "occupation": "媒体记者",
+      "role": "第四卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "不站队",
+          "追问到底",
+          "对真相有执念"
+        ],
+        "core_belief": "真相",
+        "motivation": "追问",
+        "flaw": null,
+        "speech_style": "追问式，不给逃避空间",
+        "catchphrases": []
+      },
+      "relationships": [],
+      "character_arc": {
+        "initial_state": "本地媒体记者",
+        "turning_points": [],
+        "final_state": "做完专题后离开了成都，没再追"
+      }
+    },
+    {
+      "character_id": "meng-jie",
+      "name": "孟姐",
+      "alias": [],
+      "gender": "女",
+      "age": 35,
+      "occupation": "律师",
+      "role": "第四卷角色",
+      "status": "active",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "干练",
+          "直接",
+          "信条款不信人情"
+        ],
+        "core_belief": "规则之内保护人",
+        "motivation": "帮程渡的朋友",
+        "flaw": null,
+        "speech_style": "直接",
+        "catchphrases": [
+          "你这人太容易信别人了。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "发现顾长风的合同陷阱",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "律师，程渡介绍来的",
+        "turning_points": [],
+        "final_state": "气脉健身的常年法律顾问"
+      }
+    },
+    {
+      "character_id": "chen-zong",
+      "name": "陈总",
+      "alias": [],
+      "gender": "男",
+      "age": 42,
+      "occupation": "投资人",
+      "role": "第三卷角色",
+      "status": "inactive",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": "定制西装",
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "自信",
+          "只看市场",
+          "相信包装大于本质"
+        ],
+        "core_belief": "品牌需要包装",
+        "motivation": "投资",
+        "flaw": "看不到品牌之外的东西",
+        "speech_style": "自信，带'我有一个方案'的口头禅",
+        "catchphrases": []
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "利用",
+          "description": "想投资但要改名包装，被拒绝",
+          "intensity": 4,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "成都本地投资人",
+        "turning_points": [],
+        "final_state": "被拒绝——'你这种人我见过'"
+      }
+    },
+    {
+      "character_id": "a-xing",
+      "name": "阿星",
+      "alias": [],
+      "gender": "男",
+      "age": 28,
+      "occupation": "直播主持人",
+      "role": "第五卷角色",
+      "status": "planned",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "会做效果",
+          "不失人情",
+          "见过很多场面"
+        ],
+        "core_belief": "好的主持人是让被采访者说话",
+        "motivation": "做一档有影响力的节目",
+        "flaw": null,
+        "speech_style": "会做效果但不失人情",
+        "catchphrases": []
+      },
+      "relationships": [],
+      "character_arc": {
+        "initial_state": "直播主持人",
+        "turning_points": [],
+        "final_state": "被江临渊的诚实打乱了准备好的问题"
+      }
+    },
+    {
+      "character_id": "liulanghan",
+      "name": "流浪汉",
+      "alias": [],
+      "gender": "男",
+      "age": "未知",
+      "occupation": "流浪者",
+      "role": "第一卷角色",
+      "status": "inactive",
+      "appearance": {
+        "height": null,
+        "build": null,
+        "hair": null,
+        "eyes": null,
+        "clothing_style": null,
+        "distinctive_features": []
+      },
+      "personality": {
+        "traits": [
+          "自己也没多少",
+          "但看不得别人更苦"
+        ],
+        "core_belief": "活一天算一天",
+        "motivation": "活一天算一天",
+        "flaw": "——",
+        "speech_style": "话少，问句多",
+        "catchphrases": [
+          "你也是没地方去的吧。"
+        ]
+      },
+      "relationships": [
+        {
+          "target_character_id": "jiang-linyuan",
+          "current_type": "合作",
+          "description": "给了江临渊半个馒头——全书第一个对他好的人",
+          "intensity": 5,
+          "history": []
+        }
+      ],
+      "character_arc": {
+        "initial_state": "流浪汉",
+        "turning_points": [],
+        "final_state": "仅一场戏"
+      }
+    }
+  ],
+  "status": "writing",
+  "current_chapter": 53,
+  "created_at": "2026-07-08T16:14:21.991782+08:00",
+  "updated_at": "2026-07-08T16:14:21.991782+08:00"
+}
